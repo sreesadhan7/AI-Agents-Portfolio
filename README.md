@@ -1,6 +1,6 @@
 # 🧠 Sree Sadhan - AI Agent Portfolio
 
-Welcome to my collection of AI-powered solutions! As a Software Engineer (Full-Stack Developer), AI/ML and Data Engineer with experience at TCS, Arrow North Design, and the University of Florida, I've created these intelligent agents to solve real-world problems and streamline everyday tasks. Each agent leverages cutting-edge AI to deliver practical, user-friendly solutions.
+Welcome to my collection of AI-powered solutions built using MindStudio Platform! As a Software Engineer (Full-Stack Developer), AI/ML and Data Engineer with experience at TCS, Arrow North Design, and the University of Florida, I've created these intelligent agents to solve real-world problems and streamline everyday tasks. Each agent leverages cutting-edge AI to deliver practical, user-friendly solutions.
 
 ---
 
